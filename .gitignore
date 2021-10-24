@@ -1,0 +1,9 @@
+.git
+.idea
+.vs
+AssemblyBrowser/bin
+AssemblyBrowser/obj
+AssemblyBrowserLib/bin
+AssemblyBrowserLib/obj
+AssemblyBrowserLib.Tests/bin
+AssemblyBrowserLib.Tests/obj
